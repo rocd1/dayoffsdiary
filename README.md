@@ -1,2 +1,2 @@
 # dayoffsdiary
-A learners log
+A learners log. Practice. 
